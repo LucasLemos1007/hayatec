@@ -1,2 +1,0 @@
-# haytec
-HayTec git repository
