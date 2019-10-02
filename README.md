@@ -1,2 +1,2 @@
-# haytec
-HayTec git repository
+# hayatec
+HayaTec git repository
